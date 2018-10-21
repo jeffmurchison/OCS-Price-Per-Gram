@@ -1,6 +1,6 @@
 ## About
 
-**Description:** **Description:** A Google Chrome extension to show the $/g on OCS product pages
+**Description:** A Google Chrome extension to show the $/g on OCS product pages
 
 **Author:** Jeff Murchison
 
