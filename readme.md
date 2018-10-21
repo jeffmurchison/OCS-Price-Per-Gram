@@ -1,10 +1,6 @@
 ## About
 
-**Description:** **Description:** An AVR programmer with a built-in ZIF socket for programming DIP AVRs such as ATmegas and ATtinys.
-
-**Author:** Jeff Murchison
-
-**Contact:** jeff\<a>jeffmurchison.com
+**Description:** **Description:** A Google Chrome extension to show the $/g on OCS product pages
 
 **Author:** Jeff Murchison
 
