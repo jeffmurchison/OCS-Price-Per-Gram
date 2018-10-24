@@ -1,8 +1,8 @@
 ## About
 
-**Description:** A Google Chrome extension to show the $/g on OCS product pages
+**Description:** A Google Chrome extension to show the $/g, original strain name and original brand name on OCS product pages
 
-**Author:** Jeff Murchison
+**Author:** Jeff Murchison (modified by My Balls Was Hot)
 
 **Contact:** jeff\<a>jeffmurchison.com
 
