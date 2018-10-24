@@ -8,8 +8,8 @@ var LPstrainNameMap = {"HELIOS": "Maui Wowie, a legendary strain", "WHITE SHARK"
 if (brand.item(0).innerHTML.toUpperCase() in brandMap){
     brand.item(0).innerHTML += "<br>(" + brandMap[brand.item(0).innerHTML.toUpperCase()]+")";
 }
-if (LPstrainName.item(0).innerHTML.toUpperCase() in LPstrainNameMap){
-    LPstrainName.item(0).innerHTML += "<h2/><h3>(" + LPstrainNameMap[LPstrainName.item(0).innerHTML.toUpperCase()]+")</h3><h2>";
+if (LPstrainName.item(0).innerHTML.replace("&nbsp;"," ").replace('&amp;','&').toUpperCase().trim() in LPstrainNameMap){
+    LPstrainName.item(0).innerHTML += "<h2/><h3>(" + LPstrainNameMap[LPstrainName.item(0).innerHTML.replace("&nbsp;","").replace('&amp;','&').toUpperCase().trim()]+")</h3><h2>";
 }
 for (var i = 0; i < weight.length; i++) {
     var pricePerGram = price.item(i).innerHTML.replace('$','') / weight.item(i).innerHTML.replace('g','');
