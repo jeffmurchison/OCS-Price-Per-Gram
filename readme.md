@@ -9,7 +9,7 @@
 
 ## Installation Instructions
 
-You can install the extension by visiting the [Google Chrome Store](https://chrome.google.com/webstore/detail/ocs-price-per-gram/ffddjiogaehibkbejnmbcgmgpgcjfbjd) or if you'd like to install it manually, you can do so by performing the following steps:
+You can install the extension ~~by visiting the [Google Chrome Store](https://chrome.google.com/webstore/detail/ocs-price-per-gram/ffddjiogaehibkbejnmbcgmgpgcjfbjd) or~~ if you'd like to install it manually, you can do so by performing the following steps:
 
 1. Download files into a new blank folder.
 
