@@ -1,6 +1,6 @@
 ## About
 
-**Description:** A Google Chrome extension to show the $/g, stock levels, original strain name and original brand name on OCS product pages
+**Description:** A Google Chrome extension to show the $/g, ~~stock levels (OCS removed this from client side)~~, original strain name and original brand name on OCS product pages
 
 **Author:** Jeff Murchison (modified by My Balls Was Hot)
 
