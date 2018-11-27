@@ -1,6 +1,5 @@
 var weight = document.getElementsByClassName("swatch__title");
 var price = document.getElementsByClassName("swatch__price");
-var productId = document.getElementsByClassName("swatch__input variant-selector");
 var brand = document.getElementsByClassName("product__brand");
 var LPstrainName = document.getElementsByClassName("product__title h2");
 var brandMap = {"BROKEN COAST": "APHRIA", "ACREAGE FARMS": "INVICTUS MD", "NAMASTE": "ZENABIS", "CANNA FLOWER": "VIVO", "GOOD SUPPLY": "APHRIA", "MEDMAN": "CRONOS", "AURORA": "AURORA CANNABIS", "FIRESIDE": "ABCANN", "HAVEN ST.": "TERRASCEND", "GRAIL": "TILRAY", "SATURDAY": "STARSEED", "LBS": "CANOPY GROWTH CORP", "EDISON": "ORGANIGRAM", "DNA GENETICS": "CANOPY GROWTH CORP", "RIFF": "APHRIA", "DUBON": "TILRAY", "UNITED GREENERIES ROYAL HIGH": "HARVEST ONE", "KIWI": "MARICANN", "SYMBL": "EMBLEM", "SPINACH": "CRONOS", "ALTA VIE": "MEDRELEAF", "COVE": "CRONOS", "GOODFIELDS": "APHRIA", "SAN RAFAEL": "MEDRELEAF", "HIGH TIDE": "MARICANN", "FIGR": "ALLIANCE ONE", "CANACA": "TILRAY", "TWEED": "CANOPY GROWTH CORP", "XSCAPE": "CANNTRUST", "7ACRES": "SUPREME", "SOLEI": "APHRIA", "PEAK LEAF": "CANNTRUST", "SEVEN OAKS": "BELEAVE", "NORTHERN HARVEST": "MARICANN", "SYNR.G": "CANNTRUST", "LIIV": "CANNTRUST", "ACE VALLEY": "FLOWR", "SOLACE HEALTH WEEDBOX (WDBX)": "TERRASCEND"};
@@ -20,5 +19,4 @@ for (var i = 0; i < weight.length; i++) {
     else {
         price.item(i).innerHTML += "<br> ($" + pricePerGram.toFixed(2) + "/g)";
     }
-    price.item(i).innerHTML += "<br>Stock:<br>"+ inventory_quantities[productId.item(i).value] +" left";
 }
