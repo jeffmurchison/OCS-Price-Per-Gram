@@ -1,15 +1,15 @@
 ## About
 
-**Description:** A Google Chrome extension to show the $/g on OCS product pages
+**Description:** A Google Chrome extension to show the $/g, ~~stock levels (OCS removed this from client side)~~, original strain name and original brand name on OCS product pages
 
-**Author:** Jeff Murchison
+**Author:** Jeff Murchison (modified by My Balls Was Hot)
 
 **Contact:** jeff\<a>jeffmurchison.com
 
 
 ## Installation Instructions
 
-You can install the extension by visiting the [Google Chrome Store](https://chrome.google.com/webstore/detail/ocs-price-per-gram/ffddjiogaehibkbejnmbcgmgpgcjfbjd) or if you'd like to install it manually, you can do so by performing the following steps:
+You can install the extension ~~by visiting the [Google Chrome Store](https://chrome.google.com/webstore/detail/ocs-price-per-gram/ffddjiogaehibkbejnmbcgmgpgcjfbjd) or~~ (My balls was hot version hasn't been published to the chrome store, Jeff is free to do so and can update this readme) if you'd like to install it manually, you can do so by performing the following steps:
 
 1. Download files into a new blank folder.
 
