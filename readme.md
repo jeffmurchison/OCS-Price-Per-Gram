@@ -4,7 +4,7 @@ This extension was created when the OCS website was in its infancy and lacked ma
 
 ## About
 
-**Description:** A Google Chrome extension to show the $/g on OCS product pages. This project is retired and won't see any further development since the OCS now natively shows price per gram.
+**Description:** A Google Chrome extension to show the $/g on OCS product pages.
 
 **Author:** Jeff Murchison
 
